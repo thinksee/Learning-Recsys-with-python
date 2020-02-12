@@ -24,8 +24,17 @@
 #### content
 
 - [5 Thinking](./L3/thinking.md)
-- 2 Action
-  - [AR-MarketBasket]()
-  - [WC-MarketBasket]()
+- [2 Action](./L3/action.ipynb)
+  - AR-MarketBasket
+  - WC-MarketBasket
+
+### L4
+
+### content
+
+- [3 Thinking](./L4/thinking.md)
+- [2 Action](./L4/action.ipynb)
+  - PageRank
+  - TextRank
 
 ### Overview
