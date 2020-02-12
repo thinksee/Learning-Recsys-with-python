@@ -15,7 +15,7 @@
 
 - [5 Thinking](./L2/thinking.md)
 
-- [2 Action](.\L2\action.ipynb)
+- [2 Action](./L2/action.ipynb)
   - Delicious-TagBased
   - Titanic-Clean
 
