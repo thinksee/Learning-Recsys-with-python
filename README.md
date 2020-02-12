@@ -15,16 +15,16 @@
 
 - [5 Thinking](./L2/thinking.md)
 
-- 2 Action
-  - [Delicious-TagBased](.\L2\action.ipynb)
-  - [Titanic-Clean](.\L2\action.ipynb)
+- [2 Action](.\L2\action.ipynb)
+  - Delicious-TagBased
+  - Titanic-Clean
 
 ### L3
 
 #### content
 
 - [5 Thinking](./L3/thinking.md)
-- [2 Action](./L3/action.ipynb)
+- [2 Action](https://www.kaggle.com/whs2018/marker-analysis)
   - AR-MarketBasket
   - WC-MarketBasket
 
