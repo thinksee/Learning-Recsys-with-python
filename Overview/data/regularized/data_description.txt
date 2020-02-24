@@ -521,3 +521,9 @@ SaleCondition: Condition of sale
        Alloca	Allocation - two linked properties with separate deeds, typically condo with a garage unit	
        Family	Sale between family members
        Partial	Home was not completed when last assessed (associated with New Homes)
+
+
+https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset/notebook
+https://www.kaggle.com/jolasa/blending-high-scores-top-1-8th-place
+https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python#Last-but-not-the-least,-dummy-variables
+https://www.kaggle.com/ims0rry/7-lines-of-code-to-reach-41st-place-forked
