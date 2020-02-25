@@ -1,6 +1,6 @@
 ## Learning Recsys with python
 
-### basicpoint
+### action
 
 - 包括一些机器学习的一般流程（收集数据、数据预处理、选择模型、训练、评估、超参调整以及预测）、常用的机器学习模型（C4.5，朴素贝叶斯，SVM，KNN，Adaboost，CART，K-means，EM，Apriori，PageRank）、常用的深度学习模型（CNN : LeNet-5、AlexNet、VGG、GoogleNet、ResNet、DenseNet；RNN;DBN;GAN;DRL）、深度学习轮子（Tensorflow、Keras、Pytorch）
 - 推荐系统中冷启动问题
@@ -10,6 +10,12 @@
 - 数据可视化
 - 数据集（MovieLens）
 - 推荐系统轮子（Superise）
+
+### content
+
+与推荐算法相关的一些理论知识
+
+### thinking
 
 ### kaggle
 
@@ -22,3 +28,4 @@
 ### papers
 
 推荐领域相关的papers包括代码实现
+
