@@ -1,0 +1,1 @@
+action主要是实现了[基于标签相似度的推荐](02-tagbased.ipynb)、[基于pagerank的文本摘要的生成](04-pagerank.ipynb)、[图像的SVD分解](05-1-imagesvd.ipynb)、[词嵌入word2vec](07-3-word2vec.ipynb)、[deepfm做回归问题](deepfm.ipynb)、[常用的机器学习算法以及公式推导](general-machine-learning.ipynb)、[常用的推荐算法及其公式表达](general-model-for-recommendation.ipynb)、[关联规则和词云](marker-analysis.ipynb)、[Kaggle比赛中的模型叠加stacking](stack-with-sampling.ipynb)。
