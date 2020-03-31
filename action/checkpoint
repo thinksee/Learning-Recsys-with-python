@@ -1,2 +1,0 @@
-model_checkpoint_path: "nn_model.w8"
-all_model_checkpoint_paths: "nn_model.w8"
